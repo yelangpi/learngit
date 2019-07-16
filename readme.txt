@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 This is a apple.
 Do some changes.
 Not do some changes.
+Do some changes.
